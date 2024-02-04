@@ -129,5 +129,5 @@ ____
 ## <img width="4%" style="vertical-align:middle" title="Browserstack" src="media/logo/Browserstack.svg"> Видео примера запуска тестов в Browserstack
 В отчетах Allure для каждого теста прикреплен не только скриншот, но и видео прохождения теста
 <p align="center">
-  <img title="Video" src="media/screen/Search.gif">
+  <img title="Video" src="media/screen/Video.gif">
 </p>
