@@ -114,8 +114,8 @@ ____
 <p align="center">
 <img title="Jira Task" src="media/screen/taskinjira.png">
 </p>
-
 ____
+
 <a id="tg"></a>
 ## <img width="4%" style="vertical-align:middle" title="Telegram" src="media/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
 
