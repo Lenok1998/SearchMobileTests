@@ -1,6 +1,6 @@
 # Проект по автоматизации тестирования для мобильной версии [Википедии](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) 
 
-![wiki](media/screen/вики.png "Главная страница")
+<img width="30%" title="Wiki" src="media/logo/вики.svg">
 
 <p>
 Википе́дия (англ. Wikipedia) — общедоступная многоязычная универсальная интернет-энциклопедия со свободным контентом[1], реализованная на принципах вики. Википедия является международным проектом, который состоит из языковых разделов. Все языковые разделы объеденены общим принципами (см Пять столпов, могут отличаться в некоторых деталях. В Википедии нет национальных или государственных разделов: все участники того или иного раздела объеденены общим языком, хотя географически или политически могут находиться на территории или в юрисдикции любой страны. Таким образом, страница, которую вы читаете, является частью международного многоязычного проекта, которая написана на русском языке участниками из разных стран.
@@ -101,9 +101,9 @@ ____
 <img title="Allure TestOps DashBoard" src="media/screen/DashboardTestOps.png">
 </p>
 
-![TestPlan](media/screen/Testplan.png "Тест-план дипломного проекта")
+![TestPlan](media/screen/TestPlan.png "Тест-план дипломного проекта")
 
-![TestCases](media/screen/Testcases.png "Тест-кейсы дипломного проекта")
+![TestCases](media/screen/TestCases.png "Тест-кейсы дипломного проекта")
 ____
 <a id="jira"></a>
 ## <img width="4%" style="vertical-align:middle" title="Jira" src="media/logo/Jira.svg"> </a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1099"> Jira </a>
@@ -127,8 +127,7 @@ ____
 ____
 <a id="video"></a>
 ## <img width="4%" style="vertical-align:middle" title="Browserstack" src="media/logo/Browserstack.svg"> Видео примера запуска тестов в Browserstack
-
 В отчетах Allure для каждого теста прикреплен не только скриншот, но и видео прохождения теста
 <p align="center">
-  <img title="Selenoid Video" src="media/screen/Search.gif">
+  <img title="Video" src="media/screen/Search.gif">
 </p>
