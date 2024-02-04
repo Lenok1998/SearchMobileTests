@@ -115,7 +115,9 @@ ____
 <img title="Jira Task" src="media/screen/taskinjira.png">
 </p>
 ____
+
 <a id="tg"></a>
+
 ## <img width="4%" style="vertical-align:middle" title="Telegram" src="media/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
 
 После завершения сборки, бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом о прогоне тестов в специально настроенный чат.
@@ -124,6 +126,7 @@ ____
 <img width="70%" title="Telegram Notifications" src="media/screen/chat.png">
 </p>
 ____
+
 <a id="video"></a>
 
 ## <img width="4%" style="vertical-align:middle" title="Browserstack" src="media/logo/Browserstack.svg"> Видео примера запуска тестов в Browserstack
