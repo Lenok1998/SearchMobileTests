@@ -125,6 +125,7 @@ ____
 <p align="center">
 <img width="70%" title="Telegram Notifications" src="media/screen/chat.png">
 </p>
+
 ----
 
 <a id="video"></a>
