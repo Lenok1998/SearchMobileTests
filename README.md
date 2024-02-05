@@ -1,6 +1,6 @@
 # Проект по автоматизации тестирования для мобильной версии [Википедии](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) 
 
-![Wiki](media/screen/вики.png "Главная страница")
+![Wiki](media/screen/wiki.png "Главная страница")
 
 
 <p>
@@ -114,6 +114,7 @@ ____
 <p align="center">
 <img title="Jira Task" src="media/screen/taskinjira.png">
 </p>
+
 ____
 
 <a id="tg"></a>
@@ -125,7 +126,8 @@ ____
 <p align="center">
 <img width="70%" title="Telegram Notifications" src="media/screen/chat.png">
 </p>
-____
+
+----
 
 <a id="video"></a>
 
