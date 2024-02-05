@@ -4,7 +4,7 @@ import org.aeonbits.owner.Config;
 @Config.Sources(
         {"classpath:mobile.properties"}
 )
-public interface browserstackConfig extends Config {
+public interface BrowserstackConfig extends Config {
 
     @Key("user")
     String getUser();
