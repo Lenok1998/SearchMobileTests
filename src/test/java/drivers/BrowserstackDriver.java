@@ -1,7 +1,7 @@
 package drivers;
 
-import config.BrowserstackConfig;
 import com.codeborne.selenide.WebDriverProvider;
+import config.BrowserstackConfig;
 import org.aeonbits.owner.ConfigFactory;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.MutableCapabilities;
@@ -15,14 +15,14 @@ import java.net.URL;
 public class BrowserstackDriver implements WebDriverProvider {
 
     static BrowserstackConfig config = ConfigFactory.create(BrowserstackConfig.class, System.getProperties());
+
     @Nonnull
     @Override
     public WebDriver createDriver(@Nonnull Capabilities capabilities) {
         MutableCapabilities caps = new MutableCapabilities();
 
 
-
-        caps.setCapability("browserstack.user",  config.getUser());
+        caps.setCapability("browserstack.user", config.getUser());
         caps.setCapability("browserstack.key", config.getKey());
 
 

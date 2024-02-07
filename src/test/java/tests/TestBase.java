@@ -10,6 +10,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 
 import static com.codeborne.selenide.Selenide.*;
+
 public class TestBase {
 
     @BeforeAll
