@@ -104,12 +104,18 @@ ____
 <p align="center">
 <img title="Allure TestOps DashBoard" src="media/screen/dashboards.png">
 </p>
-## :write:Тест-план дипломного проекта
+
+## 📱 Тест-план дипломного проекта
+
 ![TestPlan](media/screen/TestPlan.png "Тест-план дипломного проекта")
+
+## 📑 Тест-кейсы дипломного проекта
 
 ![TestCases](media/screen/TestCases.png "Тест-кейсы дипломного проекта")
 
-[Launches](media/screen/Launches.png "Тест-кейсы дипломного проекта")
+## 🚀 Запуски дипломного проекта
+
+![Launches](media/screen/Launches.png "Тест-кейсы дипломного проекта")
 ____
 <a id="jira"></a>
 ## <img width="4%" style="vertical-align:middle" title="Jira" src="media/logo/Jira.svg"> </a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1099"> Jira </a>
