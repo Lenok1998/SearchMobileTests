@@ -1,7 +1,6 @@
 package tests;
 
-import io.qameta.allure.Feature;
-import io.qameta.allure.Owner;
+import io.qameta.allure.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -15,7 +14,10 @@ import static io.appium.java_client.AppiumBy.id;
 import static io.qameta.allure.Allure.step;
 
 @Owner("Малышева Елена")
+@Story("Дипломный проект")
 @Feature("Автоматизация тестовых сценариев Android версии Википедии")
+@Severity(SeverityLevel.NORMAL)
+
 public class SearchTests extends TestBase {
 
     @Test
