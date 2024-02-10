@@ -25,7 +25,7 @@ ____
 
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logo/Java.svg"></a>
-<a href="https://appium.io/docs/en/2.4/"><img width="6%" title="Appium" src="media/logo/Appium.svg"></a>
+<a href="https://appium.io/docs/en/2.4/"><img width="6%" title="Appium" src="media/logo/appium.svg"></a>
 <a href="https://www.browserstack.com/"><img width="6%" title="Browserstack" src="media/logo/Browserstack.png"></a>
 <a href="https://github.com/allure-framework/allure2"><img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg"></a>
 <a href="https://qameta.io/"><img width="5%" title="Allure TestOps" src="media/logo/AllureTestOps.svg"></a>
