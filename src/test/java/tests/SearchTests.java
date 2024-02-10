@@ -49,21 +49,7 @@ public class SearchTests extends TestBase {
                 $(id("org.wikipedia.alpha:id/view_wiki_error_text")).shouldBe(visible));
     }
 
-    @Test
-    @DisplayName("Открытие первой найденной ссылки")
-    void unsuccessfulSearchTest() {
-        step("Отправляем запрос в википедии", () -> {
-            $(accessibilityId("Search Wikipedia")).click();
-            $(id("org.wikipedia.alpha:id/search_src_text")).sendKeys("ыва");
-        });
 
-        step("Нажимаем на первую найденную ссылку", () ->
-                $$(id("org.wikipedia.alpha:id/page_list_item_title")).first().click());
-
-        step("Проверяем получение ошибки", () ->
-                $(id("org.wikipedia.alpha:id/view_wiki_error_text")).shouldBe(visible));
-
-    }
 
     @Test
     @DisplayName("Проверка наличия заголовка")
