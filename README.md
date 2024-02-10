@@ -87,9 +87,12 @@ ____
 </p>
 <p>После выполнения сборки, в блоке <code>Build History</code> напротив номера сборки появятся значки <code>Allure Report</code> и <code>Allure TestOps</code>, при клике на которые откроется страница с сформированным html-отчетом и тестовой документацией соответственно.</p>
 
-
+____
 <a id="allureReport"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure_Report.svg"> </a> Пример <a target="_blank" https://jenkins.autotests.cloud/job/023_03_ElenaMalysheva98_WikiSearchTests/allure/"> Allure-отчета </a>
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure_Report.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/ElenaMalysheva98_23_qa-guru21ApiModel/allure/"> Allure-отчета </a>
+
+
+
 
 <p align="center">
 <img title="Allure Overview" src="media/screen/Allure_Report.png">
