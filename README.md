@@ -92,10 +92,13 @@ ____
 <img title="Allure Overview" src="media/screen/Allure_Report.png">
 </p>
 
+## 📊 Графики Allure
 <p align="center">
 <img title="Графики" src="media/screen/Graphs.png">
 </p>
+
 ____
+
 <a id="allure"></a>
 ## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/logo/AllureTestOps.svg"> </a> Интеграция с <a target="_blank" https://allure.autotests.cloud/project/4029/dashboards"> Allure TestOps </a>
 
