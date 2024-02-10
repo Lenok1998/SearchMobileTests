@@ -60,7 +60,6 @@ Auto:
 - ✓ Проверка обнаружения результатов поиска
 - ✓ Поиск нужного определения
 - ✓ Проверка наличия заголовка в новостях
-
 Manual:
 - ✓ Проверка успешного перехода в тело новости по ссылке
   
@@ -89,6 +88,7 @@ ____
 
 
 <a id="allureReport"></a>
+
 ## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure_Report.svg"> </a> Пример <a target="_blank">"https://jenkins.autotests.cloud/job/023_03_ElenaMalysheva98_WikiSearchTests/allure/"> Allure-отчета </a>
 
 
