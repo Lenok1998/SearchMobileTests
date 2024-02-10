@@ -59,8 +59,10 @@ ____
 Auto:
 - ✓ Проверка обнаружения результатов поиска
 - ✓ Поиск нужного определения
-
-
+- ✓ Проверка наличия заголовка в новостях
+Manual:
+- ✓ Проверка успешного перехода в тело новости по ссылке
+  
   <a id="autotests"></a>
 ____
 ## :arrow_forward: Запуск автотестов
@@ -100,7 +102,7 @@ ____
 ____
 
 <a id="allure"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/logo/AllureTestOps.svg"> </a> Интеграция с <a target="_blank" https://allure.autotests.cloud/project/4029/dashboards"> Allure TestOps </a>
+## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/logo/AllureTestOps.svg"> </a> Интеграция с <a target="_blank" "https://allure.autotests.cloud/project/4029/dashboards"> Allure TestOps </a>
 
 На *Dashboard* в <code>Allure TestOps</code> видна статистика количества тестов: сколько из них добавлены и проходятся вручную, сколько автоматизированы. Новые тесты, а так же результаты прогона приходят по интеграции при каждом запуске сборки.
 
