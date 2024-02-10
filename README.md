@@ -25,8 +25,8 @@ ____
 
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logo/Java.svg"></a>
-<a href="https://appium.io/docs/en/2.4/"><img width="6%" title="Appium" src="media/logo/Appium.svg"></a>
-<a href="https://www.browserstack.com/"><img width="6%" title="Browserstack" src="media/logo/Browserstack.svg"></a>
+<a href="https://appium.io/docs/en/2.4/"><img width="6%" title="Appium" src="media/logo/appium.svg"></a>
+<a href="https://www.browserstack.com/"><img width="6%" title="Browserstack" src="media/logo/Browserstack.png"></a>
 <a href="https://github.com/allure-framework/allure2"><img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg"></a>
 <a href="https://qameta.io/"><img width="5%" title="Allure TestOps" src="media/logo/AllureTestOps.svg"></a>
 <a href="https://gradle.org/"><img width="6%" title="Gradle" src="media/logo/Gradle.svg"></a>
@@ -131,7 +131,7 @@ ____
 
 <a id="video"></a>
 
-## <img width="4%" style="vertical-align:middle" title="Browserstack" src="media/logo/Browserstack.svg"> Видео примера запуска тестов в Browserstack
+## <img width="4%" style="vertical-align:middle" title="Browserstack" src="media/logo/Browserstack.png"> Видео примера запуска тестов в Browserstack
 
 В отчетах Allure для каждого теста прикреплен не только скриншот, но и видео прохождения теста
 
