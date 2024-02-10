@@ -85,7 +85,7 @@ ____
 
 
 <a id="allureReport"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure_Report.svg"> </a> Пример <a target="_blank" https://jenkins.autotests.cloud/job/023_03_ElenaMalysheva98_WikiSearchTests/allure/"> Allure-отчета </a>
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure_Report.svg"> </a> Пример <a target="_blank" "https://jenkins.autotests.cloud/job/023_03_ElenaMalysheva98_WikiSearchTests/allure/"> Allure-отчета </a>
 
 
 <p align="center">
@@ -93,7 +93,7 @@ ____
 </p>
 
 <p align="center">
-<img title="Allure Overview" src="media/screen/Graphs.png">
+<img title="Графики" src="media/screen/Graphs.png">
 </p>
 ____
 <a id="allure"></a>
@@ -108,6 +108,8 @@ ____
 ![TestPlan](media/screen/TestPlan.png "Тест-план дипломного проекта")
 
 ![TestCases](media/screen/TestCases.png "Тест-кейсы дипломного проекта")
+
+[Launches](media/screen/Launches.png "Тест-кейсы дипломного проекта")
 ____
 <a id="jira"></a>
 ## <img width="4%" style="vertical-align:middle" title="Jira" src="media/logo/Jira.svg"> </a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1099"> Jira </a>
